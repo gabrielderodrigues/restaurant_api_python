@@ -30,16 +30,13 @@ if response.status_code == 200:
         
     for item in menu_items:
         if item.company not in processed_companies:
-            processed_companies.add(item.company)  # Marcar a empresa como processada
+            processed_companies.add(item.company)
             
-            # Criar um arquivo para a empresa
             with open(f"{item.company}.txt", 'w', encoding='utf-8') as file:
                 file.write(f"Menu for {item.company}\n")
                 file.write("=" * 30 + "\n")
-                # Adicionar os itens da empresa ao arquivo
                 for inner_item in menu_items:
                     if inner_item.company == item.company:
-                        file.write(f"{inner_item}\n")
-        
+                        file.write(f"{inner_item}\n")        
 else:
     print(f'Erro na requisição | Status {response.status_code}')

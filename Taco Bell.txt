@@ -1,0 +1,185 @@
+Menu for Taco Bell
+==============================
+Bacon Club Chalupa from Taco Bell - Price: 58.33 - Description: Uma experiência refrescante e doce.
+Blue Raspberry Freeze™ (16 oz) from Taco Bell - Price: 39.38 - Description: Incrivelmente refrescante e saboroso.
+Blue Raspberry Freeze™ (20 oz) from Taco Bell - Price: 47.71 - Description: Sabores autênticos que aquecem o coração.
+Loaded Nacho Taco from Taco Bell - Price: 30.3 - Description: A escolha ideal para ocasiões especiais.
+Midnight Berry Freeze™ (16 oz) from Taco Bell - Price: 48.73 - Description: Uma opção saudável e equilibrada.
+Midnight Berry Freeze™ (20 oz) from Taco Bell - Price: 54.36 - Description: Leve e delicioso, perfeito para compartilhar.
+Nacho Fries from Taco Bell - Price: 41.51 - Description: Uma deliciosa refeição para toda a família.
+Nacho Fries BellGrande® from Taco Bell - Price: 31.15 - Description: Sinta o sabor da tradição em cada mordida.
+Black Bean Chalupa – Online Exclusive from Taco Bell - Price: 32.65 - Description: Leve e delicioso, perfeito para compartilhar.
+Black Bean Quesarito – Online Exclusive from Taco Bell - Price: 56.06 - Description: Uma explosão de sabores em cada mordida.
+Quesarito – Online Exclusive from Taco Bell - Price: 57.06 - Description: Uma explosão de sabores em cada mordida.
+Chalupa Supreme® – Beef from Taco Bell - Price: 34.58 - Description: Sabor autêntico e suculento.
+Chalupa Supreme® – Chicken from Taco Bell - Price: 59.32 - Description: Incrivelmente saboroso e gratificante.
+Chalupa Supreme® – Steak from Taco Bell - Price: 45.08 - Description: Uma bebida gelada e revigorante.
+Cheesy Gordita Crunch from Taco Bell - Price: 40.77 - Description: Uma opção saudável e equilibrada.
+Crunchy Taco from Taco Bell - Price: 32.86 - Description: Uma bebida gelada e revigorante.
+Crunchy Taco Supreme® from Taco Bell - Price: 45.25 - Description: Para os amantes de bebidas geladas.
+Loaded Nacho Taco (New) from Taco Bell - Price: 55.56 - Description: Molhos deliciosos para realçar seus pratos.
+Nacho Cheese Doritos® Locos Taco from Taco Bell - Price: 53.42 - Description: Sabor autêntico e suculento.
+Nacho Cheese Doritos® Locos Taco Supreme® from Taco Bell - Price: 52.51 - Description: Uma combinação única de sabores e texturas.
+Soft Taco – Beef from Taco Bell - Price: 50.33 - Description: Sabor exótico que vai te surpreender.
+Soft Taco – Chicken from Taco Bell - Price: 55.18 - Description: Uma combinação perfeita de sabores e texturas.
+Soft Taco Supreme® from Taco Bell - Price: 48.36 - Description: A escolha ideal para ocasiões especiais.
+Soft Taco – Beef from Taco Bell - Price: 52.58 - Description: Uma opção saudável e equilibrada.
+Soft Taco – Chicken from Taco Bell - Price: 46.16 - Description: Uma opção saudável e equilibrada.
+Bean Burrito (V) from Taco Bell - Price: 49.6 - Description: A escolha ideal para ocasiões especiais.
+Beefy 5-Layer Burrito from Taco Bell - Price: 52.61 - Description: Uma explosão de sabores em cada mordida.
+Burrito Supreme® – Beef from Taco Bell - Price: 59.05 - Description: Uma opção deliciosa e acolhedora.
+Burrito Supreme® – Chicken from Taco Bell - Price: 36.7 - Description: Sabores tradicionais que nunca desapontam.
+Burrito Supreme® – Steak from Taco Bell - Price: 37.57 - Description: Uma combinação perfeita de sabores e texturas.
+Chili Cheese Burrito (regional) from Taco Bell - Price: 38.98 - Description: Uma explosão de sabores em cada mordida.
+Quesarito – Beef from Taco Bell - Price: 59.83 - Description: Sabor autêntico e suculento.
+Quesarito – Chicken from Taco Bell - Price: 59.77 - Description: A escolha ideal para ocasiões especiais.
+Quesarito – Steak from Taco Bell - Price: 33.25 - Description: A escolha saudável para um dia agitado.
+Chips and Nacho Cheese Sauce (V) from Taco Bell - Price: 41.01 - Description: A escolha ideal para ocasiões especiais.
+Nacho Fries (V) (New) from Taco Bell - Price: 50.76 - Description: Leve e delicioso, perfeito para compartilhar.
+Nacho Fries BellGrande® (New) from Taco Bell - Price: 52.39 - Description: Leve e delicioso, ótimo para compartilhar.
+Nachos BellGrande® – Beef from Taco Bell - Price: 35.4 - Description: Sabores únicos que vão surpreender você.
+Nachos BellGrande® – Chicken from Taco Bell - Price: 53.68 - Description: Uma experiência refrescante e doce.
+Nachos BellGrande® – Steak from Taco Bell - Price: 36.27 - Description: Uma mistura de doçura e crocância.
+Beef Quesarito from Taco Bell - Price: 44.91 - Description: Sabor exótico que vai te surpreender.
+Black Bean Quesarito (V) from Taco Bell - Price: 45.26 - Description: Sabor caseiro que aquece a alma.
+Quesadilla – Cheese (V) from Taco Bell - Price: 33.78 - Description: Leve e delicioso, perfeito para compartilhar.
+Quesadilla – Chicken from Taco Bell - Price: 39.63 - Description: A escolha perfeita para um dia especial.
+Quesadilla – Steak from Taco Bell - Price: 32.17 - Description: Sinta o sabor do verão a cada gole.
+Bacon Club Chalupa – Specialties from Taco Bell - Price: 59.56 - Description: Uma opção deliciosa e satisfatória.
+Black Bean Chalupa – Specialties from Taco Bell - Price: 42.11 - Description: Uma escolha saudável e deliciosa.
+Black Bean Crunchwrap Supreme – Specialties from Taco Bell - Price: 38.72 - Description: Incrivelmente saboroso e gratificante.
+Black Bean Quesarito – Specialties from Taco Bell - Price: 45.5 - Description: Uma explosão de sabores em um só prato.
+Chalupa Supreme® – Specialties from Taco Bell - Price: 54.45 - Description: Um clássico que nunca sai de moda.
+Cheesy Gordita Crunch – Specialties from Taco Bell - Price: 55.5 - Description: Leve e delicioso, perfeito para compartilhar.
+Cheesy Roll Up – Specialties from Taco Bell - Price: 43.07 - Description: Para os amantes de café e cappuccinos.
+Crunchwrap Supreme® – Specialties from Taco Bell - Price: 35.78 - Description: Leve e delicioso, perfeito para compartilhar.
+Crunchy Taco – Specialties from Taco Bell - Price: 45.81 - Description: Uma bebida gelada e revigorante.
+Nacho Cheese Doritos® Locos Taco – Specialties from Taco Bell - Price: 33.47 - Description: A escolha ideal para ocasiões especiais.
+Nachos BellGrande® – Specialties from Taco Bell - Price: 31.39 - Description: Uma experiência refrescante e doce.
+Power Menu Bowl – Specialties from Taco Bell - Price: 46.92 - Description: Uma opção deliciosa e acolhedora.
+Quesadilla – Specialties from Taco Bell - Price: 53.41 - Description: Uma opção saudável e equilibrada.
+Quesarito – Specialties from Taco Bell - Price: 52.38 - Description: A escolha ideal para ocasiões especiais.
+Soft Taco – Specialties from Taco Bell - Price: 32.21 - Description: Uma experiência refrescante e doce.
+Soft Taco Supreme – Specialties from Taco Bell - Price: 32.37 - Description: Leve e saboroso, perfeito a qualquer hora.
+Veggie Power Menu Bowl – Specialties from Taco Bell - Price: 52.93 - Description: Uma opção deliciosa e reconfortante.
+Black Beans & Rice (V) from Taco Bell - Price: 36.01 - Description: Uma opção deliciosa e acolhedora.
+Black Beans (V) from Taco Bell - Price: 55.48 - Description: Uma opção saudável e equilibrada.
+Cinnabon® Delights™ (2 Pk) (V) from Taco Bell - Price: 29.98 - Description: Para os amantes de bebidas geladas.
+Cinnabon® Delights™ (12 Pk – Serves 4) (V) from Taco Bell - Price: 51.97 - Description: Uma combinação única de sabores e texturas.
+Cinnamon Twists (V) from Taco Bell - Price: 39.47 - Description: Incrivelmente refrescante e saboroso.
+Diablo Sauce Packet (V) from Taco Bell - Price: 50.82 - Description: Uma combinação perfeita de sabores e texturas.
+Fire Sauce Packet (V) from Taco Bell - Price: 32.57 - Description: O acompanhamento perfeito para qualquer refeição.
+Hot Sauce Packet (V) from Taco Bell - Price: 56.81 - Description: Leve e delicioso, perfeito para compartilhar.
+Mild Sauce Packet (V) from Taco Bell - Price: 56.55 - Description: Molhos deliciosos para realçar seus pratos.
+Blue Raspberry Freeze™ (16 oz) (New) from Taco Bell - Price: 39.55 - Description: Uma explosão de sabores em cada mordida.
+Blue Raspberry Freeze™ (20 oz) (New) from Taco Bell - Price: 42.96 - Description: Uma experiência refrescante e doce.
+Dragon Fruit Freeze (16 oz) from Taco Bell - Price: 32.88 - Description: O acompanhamento perfeito para qualquer refeição.
+Dragon Fruit Freeze (20 oz) from Taco Bell - Price: 30.81 - Description: Uma opção deliciosa e satisfatória.
+Lowfat Milk – CA (Regional) from Taco Bell - Price: 38.77 - Description: Incrivelmente saboroso e gratificante.
+Lowfat Milk – Federal (Regional) from Taco Bell - Price: 48.06 - Description: Uma combinação perfeita de sabores e texturas.
+Midnight Berry Freeze™ (16 oz) (New) from Taco Bell - Price: 42.62 - Description: Uma opção deliciosa e acolhedora.
+Midnight Berry Freeze™ (20 oz) (New) from Taco Bell - Price: 34.45 - Description: Uma bebida gelada e revigorante.
+Mtn Dew® Baja Blast Freeze™ (16 oz) from Taco Bell - Price: 30.29 - Description: Molhos deliciosos para realçar seus pratos.
+Mtn Dew® Baja Blast Freeze™ (20 oz) from Taco Bell - Price: 34.68 - Description: Uma explosão de sabores em um só prato.
+Orange Juice from Taco Bell - Price: 47.47 - Description: Molhos deliciosos para realçar seus pratos.
+Premium Hot Coffee from Taco Bell - Price: 57.11 - Description: A escolha ideal para ocasiões especiais.
+Regular Iced Coffee from Taco Bell - Price: 37.42 - Description: Para os amantes de comida caseira.
+Water from Taco Bell - Price: 36.61 - Description: Uma bebida gelada e revigorante.
+Wild Strawberry Freeze™ (16 oz) from Taco Bell - Price: 39.85 - Description: Sabores autênticos que aquecem o coração.
+Wild Strawberry Freeze™ (20 oz) from Taco Bell - Price: 46.65 - Description: A escolha ideal para ocasiões especiais.
+Beef Burrito – Value Menu from Taco Bell - Price: 53.04 - Description: Para os amantes de bebidas geladas.
+Cheesy Bean & Rice Burrito – Value Menu from Taco Bell - Price: 46.87 - Description: Uma explosão de sabores em um só prato.
+Cheesy Roll Up – Value Menu from Taco Bell - Price: 56.89 - Description: Sabor autêntico que aquece o coração.
+Chicken Chipotle Melt – Value Menu from Taco Bell - Price: 48.41 - Description: Uma opção deliciosa e satisfatória.
+Chips and Nacho Cheese Sauce – Value Menu from Taco Bell - Price: 41.13 - Description: A escolha saudável para um dia agitado.
+Cinnamon Twists – Value Menu from Taco Bell - Price: 51.79 - Description: Perfeito para quem gosta de sabores picantes.
+Loaded Nacho Taco – Value Menu from Taco Bell - Price: 50.74 - Description: Para os amantes de bebidas geladas.
+Bean Burrito from Taco Bell - Price: 32.83 - Description: Uma opção saudável e equilibrada.
+Black Bean Chalupa from Taco Bell - Price: 52.66 - Description: Sabor caseiro que aquece a alma.
+Black Bean Crunchwrap Supreme from Taco Bell - Price: 39.13 - Description: Uma bebida gelada e revigorante.
+Black Bean Quesarito from Taco Bell - Price: 32.84 - Description: Uma experiência refrescante e doce.
+Black Beans & Rice from Taco Bell - Price: 58.07 - Description: Perfeito para quem gosta de sabores picantes.
+Cheese Quesadilla from Taco Bell - Price: 30.37 - Description: Uma combinação perfeita de sabores e texturas.
+Cheesy Bean & Rice Burrito from Taco Bell - Price: 48.15 - Description: Uma combinação perfeita de sabores e texturas.
+Cheesy Roll Up from Taco Bell - Price: 37.38 - Description: Sabor exótico que vai te surpreender.
+Chips and Nacho Cheese Sauce from Taco Bell - Price: 54.44 - Description: Uma bebida gelada e revigorante.
+Cinnabon® Delights™ (2 Pack) from Taco Bell - Price: 50.64 - Description: Incrivelmente refrescante e saboroso.
+Cinnabon® Delights™ (12 Pack – Serves 4) from Taco Bell - Price: 31.92 - Description: A escolha saudável para um dia agitado.
+Cinnamon Twists from Taco Bell - Price: 51.06 - Description: Molhos deliciosos para realçar seus pratos.
+Hash Brown from Taco Bell - Price: 39.79 - Description: Molhos deliciosos para realçar seus pratos.
+Power Menu Bowl – Veggie from Taco Bell - Price: 56.83 - Description: Para os amantes de bebidas geladas.
+Power Menu Bowl – Chicken from Taco Bell - Price: 32.17 - Description: Para os amantes de bebidas geladas.
+Power Menu Bowl – Steak from Taco Bell - Price: 32.3 - Description: Uma escolha saudável e deliciosa.
+Power Menu Bowl – Veggie (V) from Taco Bell - Price: 57.3 - Description: Uma explosão de sabores em cada mordida.
+Breakfast Crunchwrap – Bacon from Taco Bell - Price: 36.21 - Description: Uma opção saudável e equilibrada.
+Breakfast Crunchwrap – Sausage from Taco Bell - Price: 58.39 - Description: Uma opção saudável e satisfatória.
+Breakfast Crunchwrap – Steak from Taco Bell - Price: 46.25 - Description: Sabores tradicionais que nunca desapontam.
+Breakfast Salsa Packet (V) from Taco Bell - Price: 58.61 - Description: Sabor autêntico que aquece o coração.
+Cheesy Toasted Breakfast Burrito – Bacon from Taco Bell - Price: 45.07 - Description: Uma combinação perfeita de sabores e texturas.
+Cheesy Toasted Breakfast Burrito – Fiesta Potato (V) from Taco Bell - Price: 44.41 - Description: Uma combinação perfeita de sabores e texturas.
+Cheesy Toasted Breakfast Burrito – Sausage from Taco Bell - Price: 49.33 - Description: Sinta o sabor do verão a cada gole.
+Cinnabon® Delights™ (2 Pack) (V) from Taco Bell - Price: 40.84 - Description: A escolha saudável para um dia agitado.
+Cinnabon® Delights™ (12 Pack – Serves 4) (V) from Taco Bell - Price: 48.11 - Description: Uma mistura de doçura e crocância.
+Grande Toasted Breakfast Burrito – Bacon from Taco Bell - Price: 47.02 - Description: Uma experiência refrescante e doce.
+Grande Toasted Breakfast Burrito – Sausage from Taco Bell - Price: 56.86 - Description: Sinta o sabor da natureza em cada mordida.
+Grande Toasted Breakfast Burrito – Steak from Taco Bell - Price: 43.44 - Description: Uma combinação perfeita de sabores e texturas.
+Hash Brown (V) from Taco Bell - Price: 42.42 - Description: Sabores tradicionais que nunca desapontam.
+Hash Brown Toasted Breakfast Burrito – Bacon from Taco Bell - Price: 54.0 - Description: O acompanhamento perfeito para qualquer refeição.
+Hash Brown Toasted Breakfast Burrito – Sausage from Taco Bell - Price: 37.63 - Description: Leve e saboroso, perfeito a qualquer hora.
+Hash Brown Toasted Breakfast Burrito – Steak from Taco Bell - Price: 48.33 - Description: Uma opção deliciosa e reconfortante.
+7-Up (16 fl oz) from Taco Bell - Price: 31.4 - Description: Leve e delicioso, perfeito para compartilhar.
+Brisk® Mango Iced Tea (16 fl oz) from Taco Bell - Price: 43.31 - Description: Sabor exótico que você vai adorar.
+Brisk® Unsweetened No Lemon Iced Tea (16 fl oz) from Taco Bell - Price: 53.24 - Description: Leve e delicioso, perfeito para compartilhar.
+Diet Dr Pepper® (16 fl oz) from Taco Bell - Price: 42.36 - Description: Incrivelmente refrescante e saboroso.
+Diet Mtn Dew® (16 fl oz) from Taco Bell - Price: 53.96 - Description: Sabores autênticos que aquecem o coração.
+Diet Pepsi® (16 fl oz) from Taco Bell - Price: 39.57 - Description: Molhos deliciosos para realçar seus pratos.
+Dr Pepper® (16 fl oz) from Taco Bell - Price: 46.43 - Description: Sabores tradicionais que nunca desapontam.
+G2 – Fruit Punch (16 fl oz) from Taco Bell - Price: 52.67 - Description: Leve e delicioso, perfeito para compartilhar.
+Mtn Dew® (16 fl oz) from Taco Bell - Price: 52.29 - Description: A escolha perfeita para um dia especial.
+Mtn Dew® Baja Blast™ (16 fl oz) from Taco Bell - Price: 35.23 - Description: Sabores autênticos que aquecem o coração.
+Mtn Dew® Baja Blast Zero Sugar (16 fl oz) from Taco Bell - Price: 54.91 - Description: Uma deliciosa refeição para toda a família.
+Mtn Dew® Kickstart™ Orange Citrus (16 fl oz) from Taco Bell - Price: 34.61 - Description: Uma experiência refrescante e doce.
+Mug® Root Beer (16 fl oz) from Taco Bell - Price: 32.11 - Description: Sabor caseiro que aquece a alma.
+Pepsi® (16 fl oz) from Taco Bell - Price: 57.71 - Description: Molhos deliciosos para realçar seus pratos.
+Pepsi® Wild Cherry (16 fl oz) from Taco Bell - Price: 55.8 - Description: Uma bebida gelada e revigorante.
+Pepsi® Zero Sugar (16 fl oz) from Taco Bell - Price: 51.26 - Description: Uma opção saudável e equilibrada.
+Sierra Mist® (16 fl oz) from Taco Bell - Price: 40.22 - Description: Sinta o sabor da tradição em cada mordida.
+Tropicana® Pink Lemonade (16 fl oz) from Taco Bell - Price: 50.39 - Description: Para os amantes de comida caseira.
+7-Up (20 fl oz) from Taco Bell - Price: 38.13 - Description: Uma bebida gelada e revigorante.
+Brisk® Mango Iced Tea (20 fl oz) from Taco Bell - Price: 44.89 - Description: Sabor caseiro que aquece a alma.
+Brisk® Unsweetened No Lemon Iced Tea (20 fl oz) from Taco Bell - Price: 44.78 - Description: Perfeito para quem gosta de sabores picantes.
+Diet Dr Pepper® (20 fl oz) from Taco Bell - Price: 44.67 - Description: Perfeito para quem gosta de sabores picantes.
+Diet Mtn Dew® (20 fl oz) from Taco Bell - Price: 42.74 - Description: Sinta o sabor da natureza em cada mordida.
+Diet Pepsi® (20 fl oz) from Taco Bell - Price: 52.5 - Description: Uma combinação perfeita de sabores e texturas.
+Dr Pepper® (20 fl oz) from Taco Bell - Price: 46.29 - Description: A escolha ideal para ocasiões especiais.
+G2 – Fruit Punch (20 fl oz) from Taco Bell - Price: 57.38 - Description: Para os amantes de bebidas geladas.
+Mtn Dew® (20 fl oz) from Taco Bell - Price: 58.57 - Description: Uma experiência refrescante e doce.
+Mtn Dew® Baja Blast™ (20 fl oz) from Taco Bell - Price: 54.17 - Description: Sinta o sabor do verão a cada gole.
+Mtn Dew® Baja Blast Zero Sugar (20 fl oz) from Taco Bell - Price: 56.44 - Description: Para os amantes de bebidas geladas.
+Mtn Dew® Kickstart™ Orange Citrus (20 fl oz) from Taco Bell - Price: 38.64 - Description: Sabor caseiro que aquece a alma.
+Mug® Root Beer (20 fl oz) from Taco Bell - Price: 53.62 - Description: Sabores autênticos que aquecem o coração.
+Pepsi® (20 fl oz) from Taco Bell - Price: 48.55 - Description: Molhos deliciosos para realçar seus pratos.
+Pepsi® Wild Cherry (20 fl oz) from Taco Bell - Price: 31.25 - Description: Sabor exótico que vai te surpreender.
+Pepsi® Zero Sugar (20 fl oz) from Taco Bell - Price: 34.26 - Description: Sinta o sabor da natureza em cada mordida.
+Sierra Mist® (20 fl oz) from Taco Bell - Price: 43.49 - Description: Para os amantes de bebidas geladas.
+Tropicana® Pink Lemonade (20 fl oz) from Taco Bell - Price: 45.2 - Description: Uma opção deliciosa e acolhedora.
+  from Taco Bell - Price: 48.7 - Description: Uma experiência refrescante e doce.
+FOUNTAIN BEVERAGES (30 OZ) from Taco Bell - Price: 35.25 - Description: Uma experiência refrescante e doce.
+7-Up (30 fl oz) from Taco Bell - Price: 43.28 - Description: Sabor autêntico com ingredientes frescos.
+Brisk® Mango Iced Tea (30 fl oz) from Taco Bell - Price: 55.43 - Description: Uma combinação perfeita de sabores e texturas.
+Brisk® Unsweetened No Lemon Iced Tea (30 fl oz) from Taco Bell - Price: 45.27 - Description: Uma experiência refrescante e doce.
+Diet Dr Pepper® (30 fl oz) from Taco Bell - Price: 42.51 - Description: Uma opção deliciosa e acolhedora.
+Diet Mtn Dew® (30 fl oz) from Taco Bell - Price: 37.56 - Description: Uma experiência refrescante e doce.
+Diet Pepsi® (30 fl oz) from Taco Bell - Price: 51.45 - Description: Sabores únicos que vão surpreender você.
+Dr Pepper® (30 fl oz) from Taco Bell - Price: 55.07 - Description: Uma combinação perfeita de sabores e texturas.
+G2 – Fruit Punch (30 fl oz) from Taco Bell - Price: 41.64 - Description: Sinta o sabor da tradição em cada mordida.
+Mtn Dew® (30 fl oz) from Taco Bell - Price: 29.99 - Description: Leve e delicioso, perfeito para compartilhar.
+Mtn Dew® Baja Blast™ (30 fl oz) from Taco Bell - Price: 49.71 - Description: Uma opção deliciosa e acolhedora.
+Mtn Dew® Baja Blast Zero Sugar (30 fl oz) from Taco Bell - Price: 58.49 - Description: Incrivelmente saboroso e gratificante.
+Mtn Dew® Kickstart™ Orange Citrus (30 fl oz) from Taco Bell - Price: 35.21 - Description: Uma explosão de sabores em cada mordida.
+Mug® Root Beer (30 fl oz) from Taco Bell - Price: 43.55 - Description: Sabor autêntico com ingredientes frescos.
+Pepsi® (30 fl oz) from Taco Bell - Price: 35.97 - Description: Sabor autêntico e suculento.
+Pepsi® Wild Cherry (30 fl oz) from Taco Bell - Price: 55.2 - Description: Uma combinação única de sabores e texturas.
+Pepsi® Zero Sugar (30 fl oz) from Taco Bell - Price: 37.25 - Description: Uma bebida gelada e revigorante.
+Sierra Mist® (30 fl oz) from Taco Bell - Price: 55.33 - Description: Sinta o sabor da natureza em cada mordida.
+Tropicana® Pink Lemonade (30 fl oz) from Taco Bell - Price: 33.03 - Description: A escolha saudável para um dia agitado.
